@@ -70,43 +70,17 @@
 
 
 # 🚀 Projects:
-
-<div>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-            text-align: left;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        .project-description {
-            padding: 16px;
-        }
-    </style>
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <!-- Project 1 -->
   <tr>
-    <th colspan="2"><h3>Data Science Project Template</h3></th>
+    <th colspan="2" style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;"><h3>Data Science Project Template</h3></th>
   </tr>
   <tr>
-    <td colspan="2" class="project-description">Well-organized and adaptable data science projects structure for efficient workflow.</td>
+    <td colspan="2" style="padding: 16px; border: 1px solid #ddd;">Well-organized and adaptable data science projects structure for efficient workflow.</td>
   </tr>
   <tr>
-    <th>Technologies</th>
-    <td>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Technologies</th>
+    <td style="padding: 8px; border: 1px solid #ddd;">
       <ul>
         <li>Poetry</li>
         <li>Hydra</li>
@@ -117,12 +91,12 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template">
+    <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
+      <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
       🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template">https://github.com/erickson-figueroa/ds_project_template</a>
     </td>
   </tr>
@@ -131,14 +105,14 @@
 
   <!-- Project 2 -->
   <tr>
-    <th colspan="2"><h3>Another Data Science Project</h3></th>
+    <th colspan="2" style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;"><h3>Another Data Science Project</h3></th>
   </tr>
   <tr>
-    <td colspan="2" class="project-description">Description of the second project.</td>
+    <td colspan="2" style="padding: 16px; border: 1px solid #ddd;">Description of the second project.</td>
   </tr>
   <tr>
-    <th>Technologies</th>
-    <td>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Technologies</th>
+    <td style="padding: 8px; border: 1px solid #ddd;">
       <ul>
         <li>Technology 1</li>
         <li>Technology 2</li>
@@ -147,19 +121,18 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="images/projects-images/second-project.jpeg" alt="Another Data Science Project">
+    <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
+      <img src="images/projects-images/second-project.jpeg" alt="Another Data Science Project" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
       🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/second_project">https://github.com/erickson-figueroa/second_project</a>
     </td>
   </tr>
 
   <!-- Add more projects as needed -->
 
-</table>
 </table>
 
 ---
