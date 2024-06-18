@@ -84,7 +84,7 @@
         <li><a href="https://dvc.org/" target="_blank" rel="noopener noreferrer">DVC</a></li>
         <li><a href="https://cookiecutter.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">Cookiecutter</a></li>
     </ul>
-    <img src="images/.jpeg" alt="Data Science Project Template" width="400" height="400">
+    <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
     <p>
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ds_project_template</a>
     </p>
