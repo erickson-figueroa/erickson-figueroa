@@ -6,39 +6,6 @@
 
 <p>I am passionate about <strong>Data Science and Data Analytics.</strong> I love transforming data into actionable insights. </p></br>
 
-    # Meet [Erickson Figueroa], the Data Science enthusiast!
-    class DataScienceEnthusiast:
-      def __init__(self, name):
-          self.name = name
-          self.passion = "Data Science and Data Analytics"
-          self.mission = "transforming data into actionable insights"
-          self.hobby = "exploring new data science tools and techniques"
-
-      def introduce(self):
-          introduction = (
-              f"👋 Hi there! I'm {self.name}, a passionate Data Science enthusiast.\n"
-              f"🌟 I love {self.passion} and {self.mission}.\n"
-              f"💬 Let's chat about data, machine learning, or anything data science related!\n"
-              f"🚀 Connect with me on GitHub to see what I've been coding lately!\n"
-          )
-          return introduction
-
-      def have_fun(self):
-          fun_fact = (
-              f"Fun fact: In my free time, I enjoy {self.hobby} and experimenting with new data science tools and techniques! 😄\n"
-          )
-          return fun_fact
-
-
-    # Instantiate DataScienceEnthusiast
-    enthusiast = DataScienceEnthusiast("Erickson Figueroa")
-
-    # Introduce myself
-    print(enthusiast.introduce())
-
-    # Have some fun facts
-    print(enthusiast.have_fun())
-
 
 # 💻 Tech Stack:
 
