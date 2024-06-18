@@ -90,7 +90,7 @@
 
 
 <p><strong>Description:</strong> Well-organized and adaptable data science projects structure for efficient workflow.</p>
-<p><strong>Category:</<strong> Template</p> 
+<p><strong>Category:</strong> Template</p> 
 <p><strong>Technologies:</strong></p>
 
 
