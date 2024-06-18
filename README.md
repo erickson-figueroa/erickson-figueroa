@@ -71,7 +71,7 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
 
 🔗 <em>Project Link:<em> https://github.com/erickson-figueroa/ds_project_template
 
-<hr style="width: 50%; border: 1px solid #000;">
+---
 
 
 
