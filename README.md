@@ -1,6 +1,10 @@
 
 ![Header Image]([header.jpg](https://github.com/erickson-figueroa/erickson-figueroa/blob/main/header.jpeg))
 
+<div id="header" align="center">
+  <img src="/Imagenes/banner/Banner.png " width="800"/>
+</div>
+
 # 💫 About Me:
 I am passionate about Data Science and Data Analytics. I love transforming <br>data into actionable insights and creating models that solve real-world problems.
 
