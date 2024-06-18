@@ -71,40 +71,24 @@
 
 # 🚀 Projects:
 
-<table>
-  <tr>
-    <th colspan="2"><h3>Data Science Project Template</h3></th>
-  </tr>
-  <tr>
-    <td colspan="2">Well-organized and adaptable data science projects structure for efficient workflow.</td>
-  </tr>
-  <tr>
-    <th>Technologies</th>
-    <td>
-      <ul>
-        <li>Poetry</li>
-        <li>Hydra</li>
-        <li>Pre-commit</li>
-        <li>Make File</li>
-        <li>DVC</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template">https://github.com/erickson-figueroa/ds_project_template</a>
-    </td>
-  </tr>
-</table>
+<h3>Data Science Project Template</h3>
+<p></p>Well-organized and adaptable data science projects structure for efficient workflow.</p>
+<p></p><em><strong>Technologies:</strong></em></p>
+
+<ul> 
+<li>Poetry</li>
+<li>Hydra</li>
+<li>Pre-commit</li>
+<li>Make File</li>
+<li>DVC</li>
+</ul>
+
+<img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
+
+🔗 <em>Project Link:<em> https://github.com/erickson-figueroa/ds_project_template
 
 
 ---
-
 
 
 # 📊 GitHub Stats:
