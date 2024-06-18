@@ -1,5 +1,6 @@
-
-![Header Image]([header.jpg](https://github.com/erickson-figueroa/erickson-figueroa/blob/main/header.jpeg))
+<div id="header" align="center">
+  <img src="/images/header.jpeg " width="800"/>
+</div>
 
 <div id="header" align="center">
   <img src="/Imagenes/banner/Banner.png " width="800"/>
