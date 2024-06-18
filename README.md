@@ -67,6 +67,8 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
 <li>DVC</li>
 </ul>
 
+<img src="/images/credly_logo_icon.svg" alt="Credly" width="50" height="50" style="margin-bottom: -16px !important;">
+
 🔗 https://github.com/erickson-figueroa/ds_project_template
 
 
