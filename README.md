@@ -1,18 +1,3 @@
-<style>
-        .badge-container {
-            display: flex;
-            align-items: center;
-        }
-        .badge-container img {
-            margin-right: 10px;
-                vertical-align: middle;
-        }
-    </style>
-
-<div id="header" align="center">
-  <img src="/images/header.jpeg "/>
-</div>
-
 # 🍁 Hi there, I'm Erickson Figueroa [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickson-figueroa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=indetrd@gmail.com)](mailto:indetrd@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com) <a href="https://www.credly.com/users/erickson-figueroa"><img src="/images/credly_logo_icon.svg" alt="Credly" width="50" height="50" style="margin-bottom: -16px !important;"></a>
 
 
@@ -22,14 +7,11 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
 # 💻 Tech Stack:
 
 #### Programming Languages
- <div class="badge-container">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-        <img src="images/SQL.svg" alt="SQL" width="150" height="140">
-    </div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<img src="images/SQL.svg" alt="SQL" width="150" height="140"></a>
 
 
 #### Data Science & Data Analytics
