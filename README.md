@@ -82,7 +82,10 @@
         <li><a href="https://pre-commit.com/" target="_blank" rel="noopener noreferrer">Pre-commit</a></li>
         <li><a href="https://www.gnu.org/software/make/" target="_blank" rel="noopener noreferrer">Make File</a></li>
         <li><a href="https://dvc.org/" target="_blank" rel="noopener noreferrer">DVC</a></li>
+        <li><a href="https://cookiecutter.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">Cookiecutter</a></li>
+
     </ul>
+
     <img src="images/projects-images/ds-project-work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
     <p>
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ds_project_template</a>
