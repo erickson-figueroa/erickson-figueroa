@@ -1,3 +1,33 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Science Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+            text-align: left;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .project-description {
+            padding: 16px;
+        }
+    </style>
+</head>
+
 <div id="header" align="center">
   <img src="/images/header.jpeg"/>
 </div>
@@ -71,38 +101,70 @@
 
 # 🚀 Projects:
 
-<h3>Data Science Project Template</h3>
-<p></p>Well-organized and adaptable data science projects structure for efficient workflow.</p>
-<p></p><em><strong>Technologies:</strong></em></p>
+<table>
+  <!-- Project 1 -->
+  <tr>
+    <th colspan="2"><h3>Data Science Project Template</h3></th>
+  </tr>
+  <tr>
+    <td colspan="2" class="project-description">Well-organized and adaptable data science projects structure for efficient workflow.</td>
+  </tr>
+  <tr>
+    <th>Technologies</th>
+    <td>
+      <ul>
+        <li>Poetry</li>
+        <li>Hydra</li>
+        <li>Pre-commit</li>
+        <li>Make File</li>
+        <li>DVC</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template">https://github.com/erickson-figueroa/ds_project_template</a>
+    </td>
+  </tr>
 
-<ul> 
-<li>Poetry</li>
-<li>Hydra</li>
-<li>Pre-commit</li>
-<li>Make File</li>
-<li>DVC</li>
-</ul>
+  <!-- Repeat this structure for each additional project -->
 
-<img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
+  <!-- Project 2 -->
+  <tr>
+    <th colspan="2"><h3>Another Data Science Project</h3></th>
+  </tr>
+  <tr>
+    <td colspan="2" class="project-description">Description of the second project.</td>
+  </tr>
+  <tr>
+    <th>Technologies</th>
+    <td>
+      <ul>
+        <li>Technology 1</li>
+        <li>Technology 2</li>
+        <li>Technology 3</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/projects-images/second-project.jpeg" alt="Another Data Science Project">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/second_project">https://github.com/erickson-figueroa/second_project</a>
+    </td>
+  </tr>
 
-🔗 <em>Project Link:<em> https://github.com/erickson-figueroa/ds_project_template
+  <!-- Add more projects as needed -->
 
-
-<h3>Data Science Project Template</h3>
-<p></p>Well-organized and adaptable data science projects structure for efficient workflow.</p>
-<p></p><em><strong>Technologies:</strong></em></p>
-
-<ul> 
-<li>Poetry</li>
-<li>Hydra</li>
-<li>Pre-commit</li>
-<li>Make File</li>
-<li>DVC</li>
-</ul>
-
-<img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
-
-🔗 <em>Project Link:<em> https://github.com/erickson-figueroa/ds_project_template
+</table>
 
 
 ---
