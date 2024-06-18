@@ -2,7 +2,8 @@
   <img src="/images/header.jpeg "/>
 </div>
 
-# 🍁 Hi there, I'm Erickson Figueroa [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickson-figueroa/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com) <a href="https://www.credly.com/users/erickson-figueroa"> <img src="/images/credly_logo_icon.svg" alt="Credly" width="50" height="50"></a>
+# 🍁 Hi there, I'm Erickson Figueroa [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickson-figueroa/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com) <a href="https://www.credly.com/users/erickson-figueroa"> <img src="/images/credly_logo_icon.svg" alt="Credly" width="50" height="50"></a> [![Credly](/images/credly_logo_icon.svg)]([https://www.youtube.com](https://www.credly.com/users/erickson-figueroa)) 
+
 
 I am passionate about Data Science and Data Analytics. I love transforming data into actionable insights
 
