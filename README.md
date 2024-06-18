@@ -57,9 +57,16 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
 
 <h3>Data Science Project Template</h3>
 <p></p>Well-organized and adaptable data science projects structure for efficient workflow</p>
+<strong>Technologies:</strong>
+<ul> 
+<li>Poetry</li>
+<li>Hydra</li>
+<li>Pre-commit</li>
+<li>Make File</li>
+<li>DVC</li>
+</ul>
 
-
-
+🔗 https://github.com/erickson-figueroa/ds_project_template
 
 
 # 📊 GitHub Stats:
