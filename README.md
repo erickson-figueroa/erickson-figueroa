@@ -6,7 +6,6 @@
 
 <p>I am passionate about <strong>Data Science and Data Analytics.</strong> I love transforming data into actionable insights. </p></br>
 
-
 # 💻 Tech Stack:
 
 <table>
@@ -65,8 +64,7 @@
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
     </td>
   </tr>
-</table>
-
+</table></br>
 
 
 # 🚀 Projects:
@@ -88,7 +86,7 @@
     <p>
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ds_project_template</a>
     </p>
-</div>
+</div></br>
 
 ---
 
