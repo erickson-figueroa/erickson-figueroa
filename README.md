@@ -71,12 +71,18 @@
 
 # 🚀 Projects:
 <table style="width: 100%; border-collapse: collapse;">
+  
   <!-- Project 1 -->
   <tr>
     <th colspan="2" style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;"><h3>Data Science Project Template</h3></th>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 16px; border: 1px solid #ddd;">Well-organized and adaptable data science projects structure for efficient workflow.</td>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Description</th>
+    <td style="padding: 16px; border: 1px solid #ddd;">Well-organized and adaptable data science projects structure for efficient workflow.</td>
+  </tr>
+  <tr>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Category</th>
+    <td style="padding: 16px; border: 1px solid #ddd;">Template</td>
   </tr>
   <tr>
     <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Technologies</th>
@@ -92,7 +98,7 @@
   </tr>
   <tr>
     <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
-      <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" style="max-width: 100%; height: auto;">
+      <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
@@ -108,7 +114,12 @@
     <th colspan="2" style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;"><h3>Another Data Science Project</h3></th>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 16px; border: 1px solid #ddd;">Description of the second project.</td>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Description</th>
+    <td style="padding: 16px; border: 1px solid #ddd;">Description of the second project.</td>
+  </tr>
+  <tr>
+    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Category</th>
+    <td style="padding: 16px; border: 1px solid #ddd;">Machine Learning</td>
   </tr>
   <tr>
     <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Technologies</th>
@@ -122,7 +133,7 @@
   </tr>
   <tr>
     <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
-      <img src="images/projects-images/second-project.jpeg" alt="Another Data Science Project" style="max-width: 100%; height: auto;">
+      <img src="images/projects-images/second-project.jpeg" alt="Another Data Science Project" width="400" height="400" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
@@ -131,7 +142,7 @@
     </td>
   </tr>
 
-  <!-- Add more projects as needed -->
+  <!-- Add more projects -->
 
 </table>
 
