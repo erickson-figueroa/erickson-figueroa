@@ -72,9 +72,9 @@
 # 🚀 Projects:
 
 <h3>Data Science Project Template</h3>
-<p><em>Description:</em> Well-organized and adaptable data science projects structure for efficient workflow.</p>
-<p><em>Category:</em> Template</p> 
-<p></p><em>Technologies:</em></p>
+<p><strong>Description:</strong> Well-organized and adaptable data science projects structure for efficient workflow.</p>
+<p><strong>Category:</strong> Template</p> 
+<p><strong>Technologies:</strong></p>
 
 <ul> 
   <li>Poetry</li>
@@ -87,11 +87,6 @@
 <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
 
 🔗 <em>Project Link:<em> https://github.com/erickson-figueroa/ds_project_template
-
-
-<p><strong>Description:</strong> Well-organized and adaptable data science projects structure for efficient workflow.</p>
-<p><strong>Category:</strong> Template</p> 
-<p><strong>Technologies:</strong></p>
 
 
 ---
