@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="/images/header.jpeg " width="800"/>
+  <img src="/images/header.jpeg "/>
 </div>
 
-# 💫 About Me:
+# 💫 Hi there, I'm Erickson Figueroa 👋:
 I am passionate about Data Science and Data Analytics. I love transforming <br>data into actionable insights and creating models that solve real-world problems.
 
 # 💻 Tech Stack:
