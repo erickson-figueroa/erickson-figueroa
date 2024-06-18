@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <div id="header" align="center">
   <img src="/images/header.jpeg "/>
 </div>
@@ -28,8 +26,7 @@ I am passionate about Data Science and Data Analytics. I love transforming <br>d
 
           
 
-<i class="devicon-jupyter-plain-wordmark colored"></i>
-          
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ### Databases
