@@ -2,10 +2,6 @@
   <img src="/images/header.jpeg " width="800"/>
 </div>
 
-<div id="header" align="center">
-  <img src="/Imagenes/banner/Banner.png " width="800"/>
-</div>
-
 # 💫 About Me:
 I am passionate about Data Science and Data Analytics. I love transforming <br>data into actionable insights and creating models that solve real-world problems.
 
