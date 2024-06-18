@@ -4,8 +4,40 @@
 
 # 🍁 Hi there, I'm Erickson Figueroa [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickson-figueroa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=indetrd@gmail.com)](mailto:indetrd@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com) <a href="https://www.credly.com/users/erickson-figueroa"><img src="/images/credly_logo_icon.svg" alt="Credly" width="50" height="50" style="margin-bottom: -16px !important;"></a>
 
-
 <p>I am passionate about <strong>Data Science and Data Analytics.</strong> I love transforming data into actionable insights. </p></br>
+
+    # Meet [Erickson Figueroa], the Data Science enthusiast!
+    class DataScienceEnthusiast:
+      def __init__(self, name):
+          self.name = name
+          self.passion = "Data Science and Data Analytics"
+          self.mission = "transforming data into actionable insights"
+          self.hobby = "exploring new data science tools and techniques"
+
+      def introduce(self):
+          introduction = (
+              f"👋 Hi there! I'm {self.name}, a passionate Data Science enthusiast.\n"
+              f"🌟 I love {self.passion} and {self.mission}.\n"
+              f"💬 Let's chat about data, machine learning, or anything data science related!\n"
+              f"🚀 Connect with me on GitHub to see what I've been coding lately!\n"
+          )
+          return introduction
+
+      def have_fun(self):
+          fun_fact = (
+              f"Fun fact: In my free time, I enjoy {self.hobby} and experimenting with new data science tools and techniques! 😄\n"
+          )
+          return fun_fact
+
+
+    # Instantiate DataScienceEnthusiast
+    enthusiast = DataScienceEnthusiast("Your Name")
+
+    # Introduce myself
+    print(enthusiast.introduce())
+
+    # Have some fun facts
+    print(enthusiast.have_fun())
 
 
 # 💻 Tech Stack:
