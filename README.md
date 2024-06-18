@@ -71,23 +71,23 @@
 
 # 🚀 Projects:
 
-<h3>Data Science Project Template</h3>
-<p><em property ='italic'>Description:</em> Well-organized and adaptable data science projects structure for efficient workflow.</p>
-<p><em property ='italic'>Category:</em> Template</p> 
-<p><em property ='italic'>Technologies:</em></p>
-
-<ul> 
-  <li>Poetry</li>
-  <li>Hydra</li>
-  <li>Pre-commit</li>
-  <li>Make File</li>
-  <li>DVC</li>
-</ul>
-
-<img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
-
-🔗 <em>Project Link:<em> https://github.com/erickson-figueroa/ds_project_template
-
+<div style="margin-bottom: 20px;">
+    <h3>Data Science Project Template</h3>
+    <p><strong>Description:</strong> Well-organized and adaptable data science projects structure for efficient workflow.</p>
+    <p><strong>Category:</strong> Template</p>
+    <p><strong>Technologies:</strong></p>
+    <ul>
+        <li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreferrer">Poetry</a></li>
+        <li><a href="https://www.hydra.eco/" target="_blank" rel="noopener noreferrer">Hydra</a></li>
+        <li><a href="https://pre-commit.com/" target="_blank" rel="noopener noreferrer">Pre-commit</a></li>
+        <li><a href="https://www.gnu.org/software/make/" target="_blank" rel="noopener noreferrer">Make File</a></li>
+        <li><a href="https://dvc.org/" target="_blank" rel="noopener noreferrer">DVC</a></li>
+    </ul>
+    <img src="images/projects-images/ds-project-work-flow.jpeg" alt="Data Science Project Template" width="400" height="400">
+    <p>
+        🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ds_project_template</a>
+    </p>
+</div>
 
 ---
 
