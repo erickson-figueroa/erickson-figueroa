@@ -67,7 +67,7 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
 <li>DVC</li>
 </ul>
 
-<img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="300" height="300">
+<img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="600" height="600">
 
 🔗 https://github.com/erickson-figueroa/ds_project_template
 
