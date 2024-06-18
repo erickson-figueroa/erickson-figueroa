@@ -70,6 +70,7 @@
 
 
 # 🚀 Projects:
+
 <table style="width: 100%; border-collapse: collapse;">
   
   <!-- Project 1 -->
@@ -142,7 +143,7 @@
     </td>
   </tr>
 
-  <!-- Add more projects -->
+  <!-- Add more projects as needed -->
 
 </table>
 
