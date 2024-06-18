@@ -5,6 +5,10 @@
 # 👋 Hi there, I'm Erickson Figueroa
 I am passionate about Data Science and Data Analytics. I love transforming data into actionable insights.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erickson-figueroa/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com) 
+
 # 💻 Tech Stack:
 
 ### Programming Languages
