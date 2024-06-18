@@ -16,7 +16,7 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<img src="images/SQL.svg" alt="SQL" width="100" height="100" style="margin-bottom: -16px !important;"></a>
+<img src="images/SQL.svg" alt="SQL" width="150" height="150"></a>
 
 
 #### Data Science & Data Analytics
