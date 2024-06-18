@@ -7,32 +7,6 @@
 <p>I am passionate about <strong>Data Science and Data Analytics.</strong> I love transforming data into actionable insights. </p></br>
 
 
-<p>
-        Here's a fun animation for the maple leaf icon: 
-        <span class="leaf" style="
-            display: inline-block; 
-            font-size: 50px; 
-            animation: spin 3s infinite;
-        ">🍁</span>
-    </p>
-
-    
-<style>
-        @keyframes spin {
-            0% { transform: rotate(0deg) scale(1); }
-            50% { transform: rotate(180deg) scale(1.5); }
-            100% { transform: rotate(360deg) scale(1); }
-        }
-
-        .leaf {
-            display: inline-block;
-            font-size: 50px;
-            animation: spin 3s infinite;
-        }
-    </style>
-
-
-
 # 💻 Tech Stack:
 
 <table>
