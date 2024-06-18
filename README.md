@@ -78,7 +78,7 @@
     <p><strong>Technologies:</strong></p>
     <ul>
         <li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreferrer">Poetry</a></li>
-        <li><a href="https://www.hydra.eco/" target="_blank" rel="noopener noreferrer">Hydra</a></li>
+        <li><a href="https://hydra.cc/" target="_blank" rel="noopener noreferrer">Hydra</a></li>
         <li><a href="https://pre-commit.com/" target="_blank" rel="noopener noreferrer">Pre-commit</a></li>
         <li><a href="https://www.gnu.org/software/make/" target="_blank" rel="noopener noreferrer">Make File</a></li>
         <li><a href="https://dvc.org/" target="_blank" rel="noopener noreferrer">DVC</a></li>
