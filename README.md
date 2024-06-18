@@ -5,6 +5,7 @@
         }
         .badge-container img {
             margin-right: 10px;
+                vertical-align: middle;
         }
     </style>
 
@@ -27,7 +28,7 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-        <img src="images/SQL.svg" alt="SQL">
+        <img src="images/SQL.svg" alt="SQL" width="150" height="140">
     </div>
 
 
