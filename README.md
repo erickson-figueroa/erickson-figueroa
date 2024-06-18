@@ -73,9 +73,9 @@
 
 <div style="margin-bottom: 20px;">
     <h3>Data Science Project Template</h3>
-    <p><strong>Description:</strong> Well-organized and adaptable data science projects structure for efficient workflow.</p>
-    <p><strong>Category:</strong> Template</p>
-    <p><strong>Technologies:</strong></p>
+    <p><em property = 'italic'>Description:</em> Well-organized and adaptable data science projects structure for efficient workflow.</p>
+    <p><em>Category:</em> Template</p>
+    <p><em>Technologies:</em></p>
     <ul>
         <li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreferrer">Poetry</a></li>
         <li><a href="https://hydra.cc/" target="_blank" rel="noopener noreferrer">Hydra</a></li>
