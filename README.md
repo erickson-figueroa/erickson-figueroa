@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hi there, I'm Erickson Figueroa
-I am passionate about Data Science and Data Analytics. I love transforming <br>data into actionable insights and creating models that solve real-world problems.
+I am passionate about Data Science and Data Analytics. I love transforming <br>data into actionable insights.
 
 # 💻 Tech Stack:
 
