@@ -2,7 +2,7 @@
   <img src="/images/header.jpeg "/>
 </div>
 
-# 👋 Hi there, I'm Erickson Figueroa [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickson-figueroa/) [!                                         [YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com)
+# 👋 Hi there, I'm Erickson Figueroa [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/erickson-figueroa/) [!   [YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com)
 I am passionate about Data Science and Data Analytics. I love transforming data into actionable insights.
 
 
