@@ -53,6 +53,12 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erickson-figueroa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-figueroa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=erickson-figueroa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=erickson-figueroa&icon=0&color=0)](https://visitcount.itsvg.in)
 
