@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="/images/header.jpeg"/>
+</div>
+
 # 🍁 Hi there, I'm Erickson Figueroa [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickson-figueroa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=indetrd@gmail.com)](mailto:indetrd@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com) <a href="https://www.credly.com/users/erickson-figueroa"><img src="/images/credly_logo_icon.svg" alt="Credly" width="50" height="50" style="margin-bottom: -16px !important;"></a>
 
 
