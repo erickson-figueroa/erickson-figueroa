@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
-      <img src="images/projects-images/ds project work-flow.jpeg" alt="Data Science Project Template" width="400" height="400" style="max-width: 100%; height: auto;">
+     
     </td>
   </tr>
   <tr>
@@ -108,40 +108,7 @@
     </td>
   </tr>
 
-  <!-- Repeat this structure for each additional project -->
 
-  <!-- Project 2 -->
-  <tr>
-    <th colspan="2" style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;"><h3>Another Data Science Project</h3></th>
-  </tr>
-  <tr>
-    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Description</th>
-    <td style="padding: 16px; border: 1px solid #ddd;">Description of the second project.</td>
-  </tr>
-  <tr>
-    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Category</th>
-    <td style="padding: 16px; border: 1px solid #ddd;">Machine Learning</td>
-  </tr>
-  <tr>
-    <th style="background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd;">Technologies</th>
-    <td style="padding: 8px; border: 1px solid #ddd;">
-      <ul>
-        <li>Technology 1</li>
-        <li>Technology 2</li>
-        <li>Technology 3</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
-      <img src="images/projects-images/second-project.jpeg" alt="Another Data Science Project" width="400" height="400" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 8px; border: 1px solid #ddd;">
-      🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/second_project">https://github.com/erickson-figueroa/second_project</a>
-    </td>
-  </tr>
 
   <!-- Add more projects as needed -->
 
