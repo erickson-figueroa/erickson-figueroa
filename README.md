@@ -72,7 +72,7 @@
 # 🚀 Projects:
 
 <h3>Data Science Project Template</h3>
-<p></p>Well-organized and adaptable data science projects structure for efficient workflow.</p>
+<p><em>Description:</em> Well-organized and adaptable data science projects structure for efficient workflow.</p>
 <p><em>Category:</em> Template</p> 
 <p></p><em><strong>Technologies:</strong></em></p>
 
