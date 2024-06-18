@@ -1,5 +1,5 @@
 
-![Header Image](header.jpg)
+![Header Image]([header.jpg](https://github.com/erickson-figueroa/erickson-figueroa/blob/main/header.jpeg))
 
 # 💫 About Me:
 I am passionate about Data Science and Data Analytics. I love transforming <br>data into actionable insights and creating models that solve real-world problems.
