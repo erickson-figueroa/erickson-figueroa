@@ -1,3 +1,6 @@
+
+![Header Image](header.jpg)
+
 # 💫 About Me:
 I am passionate about Data Science and Data Analytics. I love transforming <br>data into actionable insights and creating models that solve real-world problems.
 
