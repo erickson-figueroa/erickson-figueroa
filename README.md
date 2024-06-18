@@ -1,33 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Science Projects</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-            text-align: left;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        .project-description {
-            padding: 16px;
-        }
-    </style>
-</head>
-
 <div id="header" align="center">
   <img src="/images/header.jpeg"/>
 </div>
@@ -101,6 +71,31 @@
 
 # 🚀 Projects:
 
+<div>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+            text-align: left;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .project-description {
+            padding: 16px;
+        }
+    </style>
 <table>
   <!-- Project 1 -->
   <tr>
@@ -165,7 +160,7 @@
   <!-- Add more projects as needed -->
 
 </table>
-
+</table>
 
 ---
 
