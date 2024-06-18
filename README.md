@@ -1,20 +1,96 @@
-# 💫 About Me:
-I am passionate about Data Science and Data Analytics. I love transforming <br>data into actionable insights and creating models that solve real-world problems.
+Sure! Here's the updated README with a list of the top 5 things you are currently learning:
 
-# 💻 Tools Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+```markdown
+# Hi there, I'm Erickson Figueroa 👋
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erickson-figueroa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=erickson-figueroa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-figueroa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Header Image](https://www.yourwebsite.com/path-to-your-header-image.jpg)
+
+Welcome to my GitHub profile! I'm a passionate Data Scientist and Data & Database Analyst with a strong background in Machine Learning, Python, and SQL. I love transforming data into actionable insights and building models that solve real-world problems.
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning:
+  1. **TensorFlow 2.0** for advanced deep learning and neural networks.
+  2. **PyTorch** for dynamic computational graphs and machine learning research.
+  3. **Apache Spark** for big data processing and analytics.
+  4. **Advanced SQL** techniques and optimizations for complex queries.
+  5. **Data Science and Machine Learning Specialization** on Coursera.
+
+- 👯 I’m looking to collaborate on machine learning projects.
+- 💬 Ask me about data analysis, machine learning, and Python programming.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [Email](mailto:your-email@example.com)
+
+## 🛠 Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+### Programming Languages
+- **Python** 🐍
+- **SQL** 📊
+
+### Data Analysis & Visualization
+- **Pandas** 📑
+- **NumPy** 🔢
+- **Matplotlib** 📉
+- **Seaborn** 🌊
+- **Plotly** 📊
+
+### Machine Learning & Deep Learning
+- **Scikit-Learn** 🤖
+- **TensorFlow** 🔬
+- **Keras** 🧠
+- **XGBoost** ⚙️
+- **LightGBM** 🌳
+
+### Databases
+- **MySQL** 🐬
+- **PostgreSQL** 🐘
+- **SQLite** 📚
+- **MongoDB** 🍃
+
+### Other Tools & Technologies
+- **Jupyter Notebook** 📓
+- **Google Colab** 💻
+- **Git** 🌲
+- **Docker** 🐳
+- **Tableau** 📊
+- **Excel** 📈
+
+## 📈 GitHub Stats
+
+![Erickson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 📂 Featured Projects
+
+Here are a few projects I've been working on:
+
+### [Project 1: Predictive Modeling with Machine Learning](https://github.com/your-username/project-1)
+A machine learning project that uses various algorithms to predict outcomes based on historical data.
+
+### [Project 2: Data Visualization Dashboard](https://github.com/your-username/project-2)
+An interactive data visualization dashboard built with Plotly and Dash to explore and analyze data.
+
+### [Project 3: SQL Database Analysis](https://github.com/your-username/project-3)
+A comprehensive analysis of large datasets using SQL queries to uncover insights and trends.
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-youtube-channel)
+[![Website](https://img.shields.io/badge/Website-black?logo=google-chrome&logoColor=white)](https://www.yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=erickson-figueroa&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Feel free to explore my repositories and get in touch if you have any questions or would like to collaborate on a project. Let's transform data into meaningful insights together!
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickson-figueroa/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com) 
+To complete the setup:
+1. Replace placeholders like `your-username`, `your-linkedin-profile`, `your-email@example.com`, `your-twitter-profile`, `your-youtube-channel`, and `yourwebsite.com` with your actual details.
+2. Add links to your projects in the "Featured Projects" section.
+3. Customize the stats section with your GitHub username.
+4. Replace the placeholder URL `https://www.yourwebsite.com/path-to-your-header-image.jpg` with the actual URL of your header image.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+This README will provide a detailed view of your current learning endeavors, skills, projects, and ways to connect with you, along with a personalized header image.
