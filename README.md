@@ -57,7 +57,8 @@ I am passionate about Data Science and Data Analytics. I love transforming data 
 
 <h3>Data Science Project Template</h3>
 <p></p>Well-organized and adaptable data science projects structure for efficient workflow.</p>
-<strong>Technologies:</strong></br>
+<strong>Technologies:</strong>
+
 <ul> 
 <li>Poetry</li>
 <li>Hydra</li>
