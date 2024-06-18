@@ -31,7 +31,7 @@
 
 
     # Instantiate DataScienceEnthusiast
-    enthusiast = DataScienceEnthusiast("Your Name")
+    enthusiast = DataScienceEnthusiast("Erickson Figueroa")
 
     # Introduce myself
     print(enthusiast.introduce())
