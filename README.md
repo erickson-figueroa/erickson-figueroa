@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <div id="header" align="center">
   <img src="/images/header.jpeg "/>
 </div>
@@ -24,9 +26,10 @@ I am passionate about Data Science and Data Analytics. I love transforming <br>d
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
+<i class="devicon-jupyter-plain-wordmark colored"></i>
+          
 
 
 ### Databases
