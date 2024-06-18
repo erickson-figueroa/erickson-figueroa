@@ -89,6 +89,11 @@
 🔗 <em>Project Link:<em> https://github.com/erickson-figueroa/ds_project_template
 
 
+<p><strong>Description:</strong> Well-organized and adaptable data science projects structure for efficient workflow.</p>
+<p><strong>Category:</<strong> Template</p> 
+<p><strong>Technologies:</strong></p>
+
+
 ---
 
 
