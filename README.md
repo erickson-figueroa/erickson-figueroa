@@ -21,7 +21,7 @@
     </td>
   </tr>
   <tr>
-    <th>Data Science & Data Analytics</th>
+    <th>Data Science, A.I. & Data Analytics</th>
     <td>
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
