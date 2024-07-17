@@ -103,7 +103,7 @@
         <li><a href="https://www.gnu.org/software/make/" target="_blank" rel="noopener noreferrer">CSS3</a></li>
         <li><a href="https://cookiecutter.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">Poetry</a></l>
     </ul>
-    <img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400" height="400">
+    <img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400">
     <p>
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ai-real-estate-app" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-real-estate-app</a>
     </p>
