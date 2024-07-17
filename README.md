@@ -98,9 +98,10 @@
         <li><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a></li>
         <li><a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">Flask</a></li>
         <li><a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a></li>
-        <li><a href="https://axios-http.com/" target="_blank" rel="noopener noreferrer">Axios</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer">HTML5</a></li>
         <li><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">CSS</a></li>
+        <li><a href="https://www.microsoft.com/en-ca/sql-server/sql-server-2022" target="_blank" rel="noopener noreferrer">MSSQL Dev. Version</a></li>
+        <li><a href="https://axios-http.com/" target="_blank" rel="noopener noreferrer">Axios</a></li>   
         <li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreferrer">Poetry</a></l>
     </ul>
     <img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400">
