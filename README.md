@@ -88,10 +88,28 @@
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ds_project_template</a>
     </p>
 </div></br>
+<div style="margin-bottom: 20px;">
+    <h3>AI Real Estate Application</h3>
+    <p><em>Description:</em>AI-powered real estate search assistant for Winnipeg, Canada.</p>
+    <p><em>Category:</em> App, LLM</p>
+    <p><em>Technologies:</em></p>
+    <ul>
+        <li><a href="https://cookiecutter.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">OpenAI GPT-3.5-turbo LLM model</a></li>
+        <li><a href="https://dvc.org/" target="_blank" rel="noopener noreferrer">Python</a></li>
+        <li><a href="https://cookiecutter.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">Flask</a></li>
+        <li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreferrer">React</a></li>
+        <li><a href="https://hydra.cc/" target="_blank" rel="noopener noreferrer">Axios</a></li>
+        <li><a href="https://pre-commit.com/" target="_blank" rel="noopener noreferrer">HTML5</a></li>
+        <li><a href="https://www.gnu.org/software/make/" target="_blank" rel="noopener noreferrer">CSS3</a></li>
+        <li><a href="https://cookiecutter.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">Poetry</a></l
+    </ul>
+    <img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400" height="400">
+    <p>
+        🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-real-estate-app</a>
+    </p>
+</div></br>
 
 ---
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erickson-figueroa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
