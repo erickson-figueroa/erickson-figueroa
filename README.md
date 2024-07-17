@@ -90,7 +90,7 @@
 </div></br>
 <div style="margin-bottom: 20px;">
     <h3>AI Real Estate Application</h3>
-    <p><em>Description:</em>AI-powered real estate search assistant for Winnipeg, Canada.</p>
+    <p><em>Description:</em> AI-powered real estate search assistant for Winnipeg, Canada.</p>
     <p><em>Category:</em> App, LLM</p>
     <p><em>Technologies:</em></p>
     <ul>
