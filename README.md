@@ -105,7 +105,7 @@
     </ul>
     <img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400" height="400">
     <p>
-        🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-real-estate-app</a>
+        🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ai-real-estate-app" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-real-estate-app</a>
     </p>
 </div></br>
 
