@@ -101,7 +101,7 @@
         <li><a href="https://hydra.cc/" target="_blank" rel="noopener noreferrer">Axios</a></li>
         <li><a href="https://pre-commit.com/" target="_blank" rel="noopener noreferrer">HTML5</a></li>
         <li><a href="https://www.gnu.org/software/make/" target="_blank" rel="noopener noreferrer">CSS3</a></li>
-        <li><a href="https://cookiecutter.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">Poetry</a></l
+        <li><a href="https://cookiecutter.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">Poetry</a></l>
     </ul>
     <img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400" height="400">
     <p>
