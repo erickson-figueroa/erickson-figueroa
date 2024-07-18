@@ -109,6 +109,21 @@
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ai-real-estate-app" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-real-estate-app</a>
     </p>
 </div></br>
+<div style="margin-bottom: 20px;">
+    <h3>Machine Learning Projects</h3>
+    <p><em>Description:</em> Curated list of complete ML projects (under construction)</p>
+    <p><em>Category:</em>ML</p>
+    <p><em>Technologies:</em></p>
+    <ul>
+        <li><a href="#" target="_blank" rel="noopener noreferrer">Tech #1</a></li>
+        <li><a href="#" target="_blank" rel="noopener noreferrer">Tech #2</a></li>
+        <li><a href="#" target="_blank" rel="noopener noreferrer">Tech #3</a></li>
+    </ul>
+    <img src="images/projects-images/ML projects.jpeg" alt="Data Science Project Template" width="400">
+    <p>
+        🔗 <em>Project Link:</em> <a href="#" target="_blank" rel="noopener noreferrer">Not link yet.</a>
+    </p>
+</div></br>
 
 ---
 
