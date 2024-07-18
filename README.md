@@ -104,7 +104,7 @@
         <li><a href="https://axios-http.com/" target="_blank" rel="noopener noreferrer">Axios</a></li>   
         <li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreferrer">Poetry</a></l>
     </ul>
-    <img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400">
+    <a href="https://github.com/erickson-figueroa/ai-real-estate-app" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400"></a>
     <p>
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ai-real-estate-app" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-real-estate-app</a>
     </p>
@@ -119,9 +119,9 @@
         <li><a href="#" target="_blank" rel="noopener noreferrer">Tech #2</a></li>
         <li><a href="#" target="_blank" rel="noopener noreferrer">Tech #3</a></li>
     </ul>
-    <img src="images/projects-images/ML projects.jpeg" alt="Data Science Project Template" width="400">
+    <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/ML projects.jpeg" alt="Data Science Project Template" width="400"></a>
     <p>
-        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/machine-learning-projects</a>
+        🔗 <em>Projects Link:</em><a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/machine-learning-projects</a>
     </p>
 </div></br>
 
