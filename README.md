@@ -94,7 +94,7 @@
     <p><em>Category:</em> App, LLM</p>
     <p><em>Technologies:</em></p>
     <ul>
-        <li><a href="https://platform.openai.com/docs/models/gpt-3-5-turbo" target="_blank" rel="noopener noreferrer">OpenAI GPT-3.5-turbo LLM model</a></li>
+        <li><a href="https://platform.openai.com/docs/models/gpt-3-5-turbo" target="_blank" rel="noopener noreferrer">GPT-3.5-turbo LLM model</a></li>
         <li><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a></li>
         <li><a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">Flask</a></li>
         <li><a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a></li>
