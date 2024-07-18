@@ -121,7 +121,7 @@
     </ul>
     <img src="images/projects-images/ML projects.jpeg" alt="Data Science Project Template" width="400">
     <p>
-        🔗 <em>Project Link:</em> <a href="#" target="_blank" rel="noopener noreferrer">Not link yet.</a>
+        🔗 <em>Project Link:</em> <a href="#" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/machine-learning-projects</a>
     </p>
 </div></br>
 
