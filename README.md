@@ -121,7 +121,7 @@
     </ul>
     <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/ML projects.jpeg" alt="Data Science Project Template" width="400"></a>
     <p>
-        🔗 <em>Projects Link:</em><a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/machine-learning-projects</a>
+        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/machine-learning-projects</a>
     </p>
 </div></br>
 
