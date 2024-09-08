@@ -116,9 +116,14 @@
     <p><em>Category:</em> ML</p>
     <p><em>Technologies:</em></p>
     <ul>
-        <li><a href="#" target="_blank" rel="noopener noreferrer">Tech #1</a></li>
-        <li><a href="#" target="_blank" rel="noopener noreferrer">Tech #2</a></li>
-        <li><a href="#" target="_blank" rel="noopener noreferrer">Tech #3</a></li>
+        <li><a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">Scikit-learn</a></li>
+        <li><a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">Pandas</a></li>
+        <li><a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">Numpy</a></li>
+        <li><a href="https://scipy.org/" target="_blank" rel="noopener noreferrer">Scipy</a></li>
+        <li><a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">Matplotlib</a></li>
+        <li><a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">Seaborn</a></li>
+        <li><a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">Tensorflow</a></li>
+        <li><a href="https://keras.io/" target="_blank" rel="noopener noreferrer">Keras</a></li>
     </ul>
     <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/ML projects.jpeg" alt="Data Science Project Template" width="400"></a>
     <p>
