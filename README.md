@@ -102,6 +102,7 @@
         <li><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">CSS</a></li>
         <li><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">PostgreSQL</a></li>
         <li><a href="https://www.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">Sql Alchemy</a></li>
+        <li><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noopener noreferrer">BeautifulSoup</a></li>
         <li><a href="https://axios-http.com/" target="_blank" rel="noopener noreferrer">Axios</a></li>   
         <li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreferrer">Poetry</a></l>
     </ul>
