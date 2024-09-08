@@ -71,6 +71,27 @@
 # 🚀 Projects:
 
 <div style="margin-bottom: 20px;">
+    <h3>Machine Learning Projects</h3>
+    <p><em>Description:</em> Curated list of complete ML projects.
+    <p><em>Category:</em> ML</p>
+    <p><em>Technologies:</em></p>
+    <ul>
+        <li><a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">Scikit-learn</a></li>
+        <li><a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">Pandas</a></li>
+        <li><a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">Numpy</a></li>
+        <li><a href="https://scipy.org/" target="_blank" rel="noopener noreferrer">Scipy</a></li>
+        <li><a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">Matplotlib</a></li>
+        <li><a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">Seaborn</a></li>
+        <li><a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">Tensorflow</a></li>
+        <li><a href="https://keras.io/" target="_blank" rel="noopener noreferrer">Keras</a></li>
+    </ul>
+    <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/ML projects.jpeg" alt="Data Science Project Template" width="400"></a>
+    <p>
+        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/machine-learning-projects</a>
+    </p>
+</div></br>
+
+<div style="margin-bottom: 20px;">
     <h3>Data Science Project Template</h3>
     <p><em>Description:</em> Well-organized and adaptable data science projects structure for efficient workflow.</p>
     <p><em>Category:</em> Template</p>
@@ -111,27 +132,6 @@
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ai-real-estate-app" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-real-estate-app</a>
     </p>
 </div></br>
-<div style="margin-bottom: 20px;">
-    <h3>Machine Learning Projects</h3>
-    <p><em>Description:</em> Curated list of complete ML projects.
-    <p><em>Category:</em> ML</p>
-    <p><em>Technologies:</em></p>
-    <ul>
-        <li><a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">Scikit-learn</a></li>
-        <li><a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">Pandas</a></li>
-        <li><a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">Numpy</a></li>
-        <li><a href="https://scipy.org/" target="_blank" rel="noopener noreferrer">Scipy</a></li>
-        <li><a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">Matplotlib</a></li>
-        <li><a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">Seaborn</a></li>
-        <li><a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">Tensorflow</a></li>
-        <li><a href="https://keras.io/" target="_blank" rel="noopener noreferrer">Keras</a></li>
-    </ul>
-    <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/ML projects.jpeg" alt="Data Science Project Template" width="400"></a>
-    <p>
-        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/machine-learning-projects</a>
-    </p>
-</div></br>
-
 ---
 
 # 📊 GitHub Stats:
