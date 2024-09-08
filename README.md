@@ -111,7 +111,7 @@
     </p>
 </div></br>
 <div style="margin-bottom: 20px;">
-    <h3>Machine Learning Projects (under construction)</h3>
+    <h3>Machine Learning Projects</h3>
     <p><em>Description:</em> Curated list of complete ML projects.
     <p><em>Category:</em> ML</p>
     <p><em>Technologies:</em></p>
