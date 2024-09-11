@@ -97,7 +97,7 @@
     <p><em>Category:</em> DB</p>
     <p><em>Technologies:</em></p>
     <ul>
-        <li><a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">SQL Server Analysis Services</a></li>
+        <li><a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">SQL Server Database Engine</a></li>
         <li><a href="https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions" target="_blank" rel="noopener noreferrer">SQL Server Analysis Services (SSAS)</a></li>
         <li><a href="https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Reporting Services (SSRS)</a></li>
         <li><a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Integration Services (SSIS)</a></li>
