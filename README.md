@@ -120,7 +120,7 @@
         <li><a href="https://learn.microsoft.com/en-us/power-bi/report-server/get-started" target="_blank" rel="noopener noreferrer">Power BI Report Server</a></li>
         <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway" target="_blank" rel="noopener noreferrer">Power BI gateway</a></li> 
     </ul>
-    <a href="#" target="_blank" rel="noopener noreferrer"><img src="#" alt="Microsoft SQL Server" width="400"></a>
+    <a href="#" target="_blank" rel="noopener noreferrer"><img src="#" alt="#" width="400"></a>
     <p>
         🔗 <em>Projects Link:</em> <a href="#" target="_blank" rel="noopener noreferrer">#</a>
     </p>
