@@ -122,7 +122,7 @@
     </ul>
     <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/power bi.jpg" alt="#" width="400"></a>
     <p>
-        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer">#</a>
+        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/power-bi</a>
     </p>
 </div></br>
 
