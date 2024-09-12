@@ -94,7 +94,7 @@
 <div style="margin-bottom: 20px;">
     <h3>Python Data Analytics Projects</h3>
     <p><em>Description:</em> A curated collection of projects showcasing data analytics using Python tools.</p>
-    <p><em>Category:</em> Data Analysis</p>
+    <p><em>Category:</em> DA</p>
     <p><em>Technologies:</em></p>
     <ul>
         <li><a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">Pandas</a></li>
