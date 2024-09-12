@@ -120,9 +120,9 @@
         <li><a href="https://learn.microsoft.com/en-us/power-bi/report-server/get-started" target="_blank" rel="noopener noreferrer">Power BI Report Server</a></li>
         <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway" target="_blank" rel="noopener noreferrer">Power BI gateway</a></li> 
     </ul>
-    <a href="#" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/power bi.jpg" alt="#" width="400"></a>
+    <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/power bi.jpg" alt="#" width="400"></a>
     <p>
-        🔗 <em>Projects Link:</em> <a href="#" target="_blank" rel="noopener noreferrer">#</a>
+        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer">#</a>
     </p>
 </div></br>
 
