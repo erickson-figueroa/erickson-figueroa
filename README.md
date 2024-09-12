@@ -125,7 +125,7 @@
         <li><a href="https://support.microsoft.com/en-us/office/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a" target="_blank" rel="noopener noreferrer">Power Map</a></li> 
         <li><a href="https://learn.microsoft.com/en-us/power-bi/natural-language/power-bi-tutorial-q-and-a" target="_blank" rel="noopener noreferrer">Power Q&A</a></li> 
         <li><a href="https://learn.microsoft.com/en-us/power-bi/report-server/get-started" target="_blank" rel="noopener noreferrer">Power BI Report Server</a></li>
-        <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway" target="_blank" rel="noopener noreferrer">Power BI gateway</a></li>    
+        <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway" target="_blank" rel="noopener noreferrer">Power BI gateway</a></li>
   </ul>
     <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/power bi.jpg" alt="#" width="400"></a>
     <p>
