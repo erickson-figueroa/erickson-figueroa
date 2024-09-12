@@ -117,13 +117,20 @@
     <ul>
         <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noopener noreferrer">Microsoft Power BI</a></li>
         <li><a href="https://learn.microsoft.com/en-us/dax/" target="_blank" rel="noopener noreferrer">Dax</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query" target="_blank" rel="noopener noreferrer">Power Query</a></li> 
+        <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop" target="_blank" rel="noopener noreferrer">Power BI Desktop</a></li> 
+        <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/mobile" target="_blank" rel="noopener noreferrer">Power BI Mobile</a></li> 
+        <li><a href="https://support.microsoft.com/en-us/office/power-pivot-overview-and-learning-f9001958-7901-4caa-ad80-028a6d2432ed" target="_blank" rel="noopener noreferrer">Power Pivot & Modeling</a></li> 
+        <li><a href="https://support.microsoft.com/en-us/office/power-view-overview-and-learning-5380e429-3ee0-4be2-97b7-64d7930020b6" target="_blank" rel="noopener noreferrer">Power View</a></li> 
+        <li><a href="https://support.microsoft.com/en-us/office/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a" target="_blank" rel="noopener noreferrer">Power Map</a></li> 
+        <li><a href="https://learn.microsoft.com/en-us/power-bi/natural-language/power-bi-tutorial-q-and-a" target="_blank" rel="noopener noreferrer">Power Q&A</a></li> 
         <li><a href="https://learn.microsoft.com/en-us/power-bi/report-server/get-started" target="_blank" rel="noopener noreferrer">Power BI Report Server</a></li>
-        <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway" target="_blank" rel="noopener noreferrer">Power BI gateway</a></li> 
-    </ul>
+        <li><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway" target="_blank" rel="noopener noreferrer">Power BI gateway</a></li>    
+  </ul>
     <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/power bi.jpg" alt="#" width="400"></a>
     <p>
         🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/power-bi</a>
-    </p>
+   </p>
 </div></br>
 
 <div style="margin-bottom: 20px;">
