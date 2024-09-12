@@ -92,8 +92,8 @@
 </div></br>
 
 <div style="margin-bottom: 20px;">
-    <h3>Python Data Analysis Projects</h3>
-    <p><em>Description:</em> A curated collection of projects showcasing data analysis using Python tools.</p>
+    <h3>Python Data Analytics Projects</h3>
+    <p><em>Description:</em> A curated collection of projects showcasing data analytics using Python tools.</p>
     <p><em>Category:</em> Data Analysis</p>
     <p><em>Technologies:</em></p>
     <ul>
@@ -105,7 +105,7 @@
         <li><a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">Jupyter</a></li>
         <li><a href="https://www.statsmodels.org/" target="_blank" rel="noopener noreferrer">Statsmodels</a></li>
     </ul>
-    <a href="https://github.com/erickson-figueroa/data-analysis-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/Data Analysis projects.jpeg" alt="Data Analysis Project Template" width="400"></a>
+    <a href="https://github.com/erickson-figueroa/python-data-analysis-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/Data Analysis projects.jpeg" alt="Data Analytics Project Template" width="400"></a>
     <p>
         🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/python-data-analysis-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/python-data-analysis-projects</a>
     </p>
