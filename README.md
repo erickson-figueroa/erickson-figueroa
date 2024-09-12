@@ -92,7 +92,7 @@
 </div></br>
 
 <div style="margin-bottom: 20px;">
-    <h3>SQL Server Development and Data Analysis</h3>
+    <h3>SQL Server Development and Data Analysis Projects</h3>
     <p><em>Description:</em> SQL, T-SQL, Tips and mucho more!.
     <p><em>Category:</em> DB</p>
     <p><em>Technologies:</em></p>
@@ -110,7 +110,7 @@
 </div></br>
 
 <div style="margin-bottom: 20px;">
-    <h3>Power BI</h3>
+    <h3>Power BI Projects</h3>
     <p><em>Description:</em> Data Analysis, Vizualizations, tips, and integrations.
     <p><em>Category:</em> Data Viz</p>
     <p><em>Technologies:</em></p>
