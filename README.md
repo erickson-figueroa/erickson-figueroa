@@ -68,7 +68,7 @@
 </table></br>
 
 
-# 🚀 Projects about Data Science, Data Analytics & AI:
+# 🚀 Projects:
 
 <div style="margin-bottom: 20px;">
     <h3>Python Machine Learning Projects</h3>
