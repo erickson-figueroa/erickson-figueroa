@@ -111,7 +111,7 @@
 
 <div style="margin-bottom: 20px;">
     <h3>Power BI</h3>
-    <p><em>Description:</em> Data Analysis, Vizualizations, tips, integrations.
+    <p><em>Description:</em> Data Analysis, Vizualizations, tips, and integrations.
     <p><em>Category:</em> Data Viz</p>
     <p><em>Technologies:</em></p>
     <ul>
