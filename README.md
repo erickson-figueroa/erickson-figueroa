@@ -154,6 +154,29 @@
 </div></br>
 
 <div style="margin-bottom: 20px;">
+    <h3>AI Projects</h3>
+    <p><em>Description:</em> A curated collection of AI projects focusing on AI applications, generative AI, large language models (LLM), deep learning, natural language processing (NLP), retrieval-augmented generation (RAG), neural networks, and more.</p>
+    <p><em>Category:</em> AI</p>
+    <p><em>Technologies:</em></p>
+    <ul>
+        <li><a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a></li>
+        <li><a href="https://keras.io/" target="_blank" rel="noopener noreferrer">Keras</a></li>
+        <li><a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a></li>
+        <li><a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">Hugging Face Transformers</a></li>
+        <li><a href="https://openai.com/" target="_blank" rel="noopener noreferrer">OpenAI API</a></li>
+        <li><a href="https://www.ray.io/" target="_blank" rel="noopener noreferrer">Ray for Distributed AI</a></li>
+        <li><a href="https://www.spacy.io/" target="_blank" rel="noopener noreferrer">spaCy</a></li>
+        <li><a href="https://nltk.org/" target="_blank" rel="noopener noreferrer">NLTK</a></li>
+        <li><a href="https://langchain.com/" target="_blank" rel="noopener noreferrer">LangChain</a></li>
+        <li><a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer">LLaMA</a></li>
+    </ul>
+    <a href="https://github.com/erickson-figueroa/ai-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/AI projects.jpeg" alt="AI Project Image" width="400"></a>
+    <p>
+        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/ai-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-projects</a>
+    </p>
+</div></br>
+
+<div style="margin-bottom: 20px;">
     <h3>Data Science Project Template</h3>
     <p><em>Description:</em> Well-organized and adaptable data science projects structure for efficient workflow.</p>
     <p><em>Category:</em> Template</p>
