@@ -112,24 +112,6 @@
 </div></br>
 
 <div style="margin-bottom: 20px;">
-    <h3>SQL Server Development and Data Analysis Projects</h3>
-    <p><em>Description:</em> SQL, T-SQL, Tips and mucho more!.
-    <p><em>Category:</em> DB</p>
-    <p><em>Technologies:</em></p>
-    <ul>
-        <li><a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">SQL Server Database Engine</a></li>
-        <li><a href="https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions" target="_blank" rel="noopener noreferrer">SQL Server Analysis Services (SSAS)</a></li>
-        <li><a href="https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Reporting Services (SSRS)</a></li>
-        <li><a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Integration Services (SSIS)</a></li>
-        <li><a href="https://azure.microsoft.com/en-us/products/virtual-machines/sql-server" target="_blank" rel="noopener noreferrer">SQL Server on Azure</a></li>
-    </ul>
-    <a href="https://github.com/erickson-figueroa/sql-server" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/sql server.png" alt="Microsoft SQL Server" width="400"></a>
-    <p>
-        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/sql-server" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/sql-server</a>
-    </p>
-</div></br>
-
-<div style="margin-bottom: 20px;">
     <h3>Power BI Projects</h3>
     <p><em>Description:</em> Data Analysis, Vizualizations, tips, and integrations.
     <p><em>Category:</em> Data Viz</p>
@@ -176,6 +158,24 @@
     </p>
 </div></br>
 
+
+<div style="margin-bottom: 20px;">
+    <h3>SQL Server Development and Data Analysis Projects</h3>
+    <p><em>Description:</em> SQL, T-SQL, Tips and mucho more!.
+    <p><em>Category:</em> DB</p>
+    <p><em>Technologies:</em></p>
+    <ul>
+        <li><a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">SQL Server Database Engine</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions" target="_blank" rel="noopener noreferrer">SQL Server Analysis Services (SSAS)</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Reporting Services (SSRS)</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Integration Services (SSIS)</a></li>
+        <li><a href="https://azure.microsoft.com/en-us/products/virtual-machines/sql-server" target="_blank" rel="noopener noreferrer">SQL Server on Azure</a></li>
+    </ul>
+    <a href="https://github.com/erickson-figueroa/sql-server" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/sql server.png" alt="Microsoft SQL Server" width="400"></a>
+    <p>
+        🔗 <em>Projects Link:</em> <a href="https://github.com/erickson-figueroa/sql-server" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/sql-server</a>
+    </p>
+</div></br>
 
 <div style="margin-bottom: 20px;">
     <h3>Data Science Project Template</h3>
