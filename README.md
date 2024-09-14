@@ -155,7 +155,7 @@
 
 <div style="margin-bottom: 20px;">
     <h3>AI Projects</h3>
-    <p><em>Description:</em> A comprehensive set of projects focusing on AI applications, generative AI, large language models (LLM), deep learning, natural language processing (NLP), retrieval-augmented generation (RAG), neural networks, and more.</p>
+    <p><em>Description:</em> A comprehensive set of projects focusing on AI applications.</p>
     <p><em>Category:</em> AI</p>
     <p><em>Technologies:</em></p>
     <ul>
