@@ -168,7 +168,7 @@
         <li><a href="https://www.spacy.io/" target="_blank" rel="noopener noreferrer">spaCy</a></li>
         <li><a href="https://nltk.org/" target="_blank" rel="noopener noreferrer">NLTK</a></li>
         <li><a href="https://langchain.com/" target="_blank" rel="noopener noreferrer">LangChain</a></li>
-        <li><a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer">LLaMA</a></li>
+        <li><a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer">Llama</a></li>
     </ul>
     <a href="https://github.com/erickson-figueroa/ai-projects" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/AI projects.jpeg" alt="AI Project Image" width="400"></a>
     <p>
