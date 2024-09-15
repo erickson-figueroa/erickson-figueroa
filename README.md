@@ -195,29 +195,6 @@
         🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ds_project_template" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ds_project_template</a>
     </p>
 </div></br>
-<div style="margin-bottom: 20px;">
-    <h3>AI Real Estate Application</h3>
-    <p><em>Description:</em> AI-powered real estate search assistant for Winnipeg, Canada.</p>
-    <p><em>Category:</em> App, LLM</p>
-    <p><em>Technologies:</em></p>
-    <ul>
-        <li><a href="https://platform.openai.com/docs/models/gpt-3-5-turbo" target="_blank" rel="noopener noreferrer">GPT-3.5-turbo LLM model</a></li>
-        <li><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a></li>
-        <li><a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">Flask</a></li>
-        <li><a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer">HTML5</a></li>
-        <li><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">CSS</a></li>
-        <li><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">PostgreSQL</a></li>
-        <li><a href="https://www.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">Sql Alchemy</a></li>
-        <li><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noopener noreferrer">BeautifulSoup</a></li>
-        <li><a href="https://axios-http.com/" target="_blank" rel="noopener noreferrer">Axios</a></li>   
-        <li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreferrer">Poetry</a></l>
-    </ul>
-    <a href="https://github.com/erickson-figueroa/ai-real-estate-app" target="_blank" rel="noopener noreferrer"><img src="images/projects-images/Real State AI App.jpg" alt="Data Science Project Template" width="400"></a>
-    <p>
-        🔗 <em>Project Link:</em> <a href="https://github.com/erickson-figueroa/ai-real-estate-app" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/ai-real-estate-app</a>
-    </p>
-</div></br>
 ---
 
 # 📊 GitHub Stats:
