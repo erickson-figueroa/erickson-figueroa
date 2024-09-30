@@ -5,7 +5,6 @@
 
 ## 🚀 Projects:
 
-
 <p>🔗 <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">Machine Learning</a></p>
 <p>🔗 <a href="https://github.com/erickson-figueroa/python-data-analysis-projects" target="_blank" rel="noopener noreferrer">Data Analysis</a></p>
 <p>🔗 <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer">Power BI</a></p>
