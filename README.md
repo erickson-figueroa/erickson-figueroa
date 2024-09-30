@@ -1,5 +1,5 @@
 # 🙋 Hi there , I'm Erickson Figueroa 
-<p>Passionate about Data Science, Artificial Intelligence, Machine Learning, and Data Analytics. Extract value from data and turn it into actionable insights.</p>
+<p>Passionate about Data Science, Artificial Intelligence, Machine Learning, and Data Analytics, I extract value from data and turn it into actionable insights.</p>
 
 ###  Search for me on:
 - <a href= "#">Personal website</a>
