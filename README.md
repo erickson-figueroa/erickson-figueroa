@@ -5,6 +5,4 @@
 - <a href= "#">Personal website</a>
 - <a href="https://www.linkedin.com/in/erickson-figueroa/">LinkedIn</a>
 - <a href="mailto:indetrd@gmail.com">Write me</a>
-- <a href="https://www.credly.com/users/erickson-figueroa">My credentials</a>    
----
-
+- <a href="https://www.credly.com/users/erickson-figueroa">My credentials</a>
