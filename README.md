@@ -5,7 +5,7 @@
 ###  Search for me on:
 - Personal website: [under construction]
 - LinkedIn:
-- <a mailto:indetrd@gmail.com>Write me:</a>
+- <a href="mailto:indetrd@gmail.com">Write me></a>
 - <a href="https://www.credly.com/users/erickson-figueroa">My credentials</a>    
 ---
 
