@@ -3,7 +3,7 @@
 <p>I am passionate about <strong>Data Science, Artificial Intelligence, Machine Learning, and Data Analytics.</strong> I love extracting value from data and turning it into actionable insights.</p></br>
 
 
-# 🚀 Project:
+### 🚀 Projects:
 
 
 <p>🔗 <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">Machine Learning</a></p>
