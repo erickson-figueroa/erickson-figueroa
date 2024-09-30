@@ -2,11 +2,10 @@
 
 <p>I am passionate about <strong>Data Science, Artificial Intelligence, Machine Learning, and Data Analytics.</strong> I love extracting value from data and turning it into actionable insights.</p></br>
 
-
 ###  Search for me on:
 - Personal website: [under construction]
 - LinkedIn:
-- Write me
-- My credentials    
+- <a mailto:indetrd@gmail.com>Write me:</a>
+- <a href="https://www.credly.com/users/erickson-figueroa">My credentials</a>    
 ---
 
