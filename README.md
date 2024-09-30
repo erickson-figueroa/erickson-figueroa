@@ -3,13 +3,10 @@
 <p>I am passionate about <strong>Data Science, Artificial Intelligence, Machine Learning, and Data Analytics.</strong> I love extracting value from data and turning it into actionable insights.</p></br>
 
 
-## 🚀 Projects:
-
-<p>🔗 <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">Machine Learning</a></p>
-<p>🔗 <a href="https://github.com/erickson-figueroa/python-data-analysis-projects" target="_blank" rel="noopener noreferrer">Data Analysis</a></p>
-<p>🔗 <a href="https://github.com/erickson-figueroa/power-bi" target="_blank" rel="noopener noreferrer">Power BI</a></p>
-<p>🔗 <a href="https://github.com/erickson-figueroa/ai-projects" target="_blank" rel="noopener noreferrer">AI</a></p>
-<p>🔗 <a href="https://github.com/erickson-figueroa/sql-server" target="_blank" rel="noopener noreferrer">SQL Server</a></p>
-    
+###  Search for me on:
+- Personal website: [under construction]
+- LinkedIn:
+- Write me
+- My credentials    
 ---
 
