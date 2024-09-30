@@ -8,7 +8,7 @@
 # 🚀 Project List:
 
 <div style="margin-bottom: 20px;">
-    <p>🔗 <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">https://github.com/erickson-figueroa/machine-learning-projects</a> Python Machine Learning Projects</hp>
+    <p>🔗 <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">Python Machine Learning Projects</a></hp>
  
 </div></br>
 
