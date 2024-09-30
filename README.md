@@ -3,7 +3,7 @@
 <p>I am passionate about <strong>Data Science, Artificial Intelligence, Machine Learning, and Data Analytics.</strong> I love extracting value from data and turning it into actionable insights.</p></br>
 
 
-### 🚀 Projects:
+## 🚀 Projects:
 
 
 <p>🔗 <a href="https://github.com/erickson-figueroa/machine-learning-projects" target="_blank" rel="noopener noreferrer">Machine Learning</a></p>
@@ -14,7 +14,7 @@
     
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erickson-figueroa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erickson-figueroa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-figueroa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
