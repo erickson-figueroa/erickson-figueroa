@@ -1,9 +1,13 @@
 <p> 
 
-🙋 Hi, I'm Erickson Figueroa
+🙋 Hi, I'm Erickson Figueroa a Data Engineer
 
-Passionate about **Data Engineering, Microsoft Data Platforms, SQL Server, Azure SQL, Microsoft Fabric, AI, and Data Analytics**.  
-I design and optimize **data pipelines**, transform complex datasets into **actionable insights**, and build **scalable solutions** that drive business impact.
+Designing and optimizing scalable data pipelines and modern Lakehouse architectures. Expertise in bridging the gap between traditional SQL environments and cloud-native solutions, integrating CI/CD practices to ensure data reliability.
+
+Tech Stack: Microsoft Fabric, Apache Spark (PySpark/SparkSQL), dbt, T-SQL, and Azure Data Services.
+
+Building robust data foundations through automated workflows and high-performance transformations.
+
   
 </p> 
 
