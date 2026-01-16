@@ -6,8 +6,7 @@ Designing and optimizing scalable data pipelines and modern Lakehouse architectu
 
 **Tech Stack:** Microsoft Fabric, Apache Spark (PySpark/SparkSQL), dbt, T-SQL, and Azure Data Services.
 
-Building robust data foundations through automated workflows and high-performance transformations.
-
+Building high-quality data foundations, ready for advanced analytics and AI.
   
 </p> 
 
