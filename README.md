@@ -11,7 +11,6 @@ Building high-quality data foundations, ready for advanced analytics and AI.
 </p> 
 
 ###  Search for me on:
-- <a href= "#">Personal website (under construction)</a>
 - <a href="https://www.linkedin.com/in/erickson-figueroa/">LinkedIn</a>
 - <a href="mailto:indetrd@gmail.com">Write me</a>
 - <a href="https://www.credly.com/users/erickson-figueroa">My credentials</a>
