@@ -6,4 +6,4 @@ Currently: turning legacy data into something a little more modern, a little mor
 
 ###  Search for me on:
 - <a href="https://www.linkedin.com/in/erickson-figueroa/">LinkedIn</a>
-- <a href="https://www.youtube.com/@onecoredata">Youtube</a>
+- <a href="https://www.youtube.com/@onecoredata">YouTube</a>
