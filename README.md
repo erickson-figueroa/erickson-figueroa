@@ -1,13 +1,7 @@
 <p> 
 
-🙋 Hi, I'm Erickson Figueroa, a Data Engineer
-
-Designing and optimizing scalable data pipelines and **modern Lakehouse architectures.** Expertise in bridging the gap between traditional SQL environments and cloud-native solutions, integrating CI/CD practices to ensure data reliability.
-
-**Tech Stack:** Microsoft Fabric, Apache Spark (PySpark/SparkSQL), dbt, T-SQL, and Azure Data Services.
-
-Building high-quality data foundations, ready for advanced analytics and AI.
-  
+🙋 Hi, I'm Erickson Figueroa — Data Engineer with 14+ years in the field, now figuring out how AI fits into all of it.
+Currently: turning legacy data into something a little more modern, a little more intelligent.
 </p> 
 
 ###  Search for me on:
