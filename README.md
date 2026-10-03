@@ -8,4 +8,4 @@ I document the process through OneCore Data — real pipelines, real mistakes, r
 
 - <a href="https://www.linkedin.com/in/erickson-figueroa/">LinkedIn</a>
 - <a href="https://www.youtube.com/@onecoredata">YouTube</a>
-- <a href="[https://www.youtube.com/@onecoredata](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137447501699170306)">Newsletter</a>
+- <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137447501699170306">Newsletter</a>
