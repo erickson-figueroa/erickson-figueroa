@@ -1,8 +1,8 @@
 <p> 
 
-🙋 Hi, I'm Erickson Figueroa — Data Engineer with 14+ years in the field, now modernizing that experience into Microsoft Fabric and Azure. Currently: building data architecture that's ready for AI once the foundation is solid.
+🙋 Hi, I'm Erickson Figueroa, Data Engineer with 14+ years of experience in SQL Server, T-SQL and relational databases. Now I combine data engineering with AI to build practical solutions: RAG pipelines, AI agents and automations on clean, well-designed data.
 
-I document the process through OneCore Data — real pipelines, real mistakes, real solutions.
+I share what I learn through El Humano Artificial (ES/EN): real tests, real mistakes, real solutions.
 
 ### Find me on:
 
