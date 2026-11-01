@@ -7,5 +7,7 @@ I share what I learn through El Humano Artificial (ES/EN): real tests, real mist
 ### Find me on:
 
 - <a href="https://www.linkedin.com/in/erickson-figueroa/">LinkedIn</a>
-- <a href="https://www.youtube.com/@onecoredata">YouTube</a>
-- <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137447501699170306">Newsletter</a>
+- <a href="https://www.youtube.com/@El_Humano_Artificial">YouTube</a>
+- <a href="https://www.instagram.com/el_humano_artificial/">Instagram</a>
+- <a href="https://www.facebook.com/ElHumanoArtificial">Facebook</a>
+- <a href="https://beacons.ai/el_humano_artificial">All my links</a>
